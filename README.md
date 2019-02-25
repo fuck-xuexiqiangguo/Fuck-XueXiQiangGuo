@@ -26,3 +26,11 @@
 ## License
 
 Fuck XueXiQiangGuo is licensed under MIT License
+
+---
+
+本软件为公益性质，永久免费使用
+
+如果你为本软件支付过费用，请立即退款
+
+不接受捐款
