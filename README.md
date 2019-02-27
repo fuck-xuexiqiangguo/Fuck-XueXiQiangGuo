@@ -7,6 +7,8 @@
 
 [Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip)
 
+[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip)
+
 [Linux](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip)
 
 ## 使用方法
@@ -18,6 +20,8 @@
 ## 更新方法
 
 使用最新的[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar)替换resources/app.asar
+
+对于Mac用户，请替换Contents/Resources/app.asar
 
 ## 已知问题
 
