@@ -20,6 +20,39 @@
 * 如果你没有登录账号，请在打开的页面中扫描二维码登录。
 * 等待打开的窗口中的程序自动完成“学习”，你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口。
 
+## 直接在命令行界面运行
+
+以 Ubuntu 系统 (Linux x86_64) 为例
+
+```sh
+# 安装依赖
+sudo apt update
+sudo apt upgrade
+sudo apt-get install -y \
+    wget \
+    unzip \
+    libgtk-3-0 \
+    xvfb \
+    libxss1 \
+    libnss3 \
+    libasound2
+
+Xvfb -ac -screen scrn 1280x2000x24 :9.0 &
+export DISPLAY=:9.0
+
+# 下载并解压程序
+wget -O fuck-xuexiqiangguo.zip https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip
+unzip -q -d ./fuck-xuexiqiangguo/ fuck-xuexiqiangguo.zip
+
+cd fuck-xuexiqiangguo
+chmod +x ./Fuck学习强国
+
+# 运行程序
+./Fuck学习强国 --headless
+
+# 等待片刻，使用学习强国APP扫描屏幕上的二维码登录
+```
+
 ## 更新方法
 
 使用最新的[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar)替换resources/app.asar
