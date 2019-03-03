@@ -69,6 +69,8 @@ chmod +x ./Fuck学习强国
 
 Fuck XueXiQiangGuo is licensed under MIT License
 
+[源代码](https://github.com/fuck-xuexiqiangguo/source-code)
+
 ---
 
 本软件为公益性质，永久免费使用
