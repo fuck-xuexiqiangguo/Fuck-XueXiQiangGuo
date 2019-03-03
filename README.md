@@ -59,6 +59,8 @@ chmod +x ./Fuck学习强国
 
 对于Mac用户，请替换Contents/Resources/app.asar
 
+[version.json](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json)文件中有app.asar的sha256校验值，可自行核对。
+
 ## 已知问题
 
 重复阅读同一文章或视频不能获得分数
