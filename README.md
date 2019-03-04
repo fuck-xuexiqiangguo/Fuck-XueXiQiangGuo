@@ -5,13 +5,16 @@
 
 ## 下载
 
-[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip)
+[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip)
 
-[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip)
+[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip)
 
-[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip)
+[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip)
 
-[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip)
+[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip)
+
+[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar)
+(记得校验sha256)
 
 ## 使用方法
 
