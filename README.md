@@ -13,8 +13,14 @@
 
 [树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip)
 
-[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar)
-(记得校验sha256)
+[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar)  
+(记得校验[sha256](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json))
+
+### 在 IPFS 上的镜像
+
+ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
+
+[IPFS镜像1](https://cloudflare-ipfs.com/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像2](https://ipfs.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像3](https://siderus.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw)
 
 ## 使用方法
 
