@@ -5,13 +5,13 @@
 
 ## 下载
 
-[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip)
+[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Love学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-win32.zip)
 
-[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip)
+[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Love学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-darwin.zip)
 
-[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip)
+[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Love学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-linux.zip)
 
-[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip)
+[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Love学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Love学习强国-raspberrypi.zip)
 
 [app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar)  
 (记得校验[sha256](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json))
@@ -24,8 +24,8 @@ ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
 
 ## 使用方法
 
-* 请解压后点击 `Fuck学习强国.exe` 来启动程序。
-* 对于Linux用户，请在使用前为程序添加可执行权限: `chmod +x Fuck学习强国`
+* 请解压后点击 `Love学习强国.exe` 来启动程序。
+* 对于Linux用户，请在使用前为程序添加可执行权限: `chmod +x Love学习强国`
 * 如果你没有登录账号，请在打开的页面中扫描二维码登录。
 * 等待打开的窗口中的程序自动完成“学习”，你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口。
 
@@ -50,14 +50,14 @@ Xvfb -ac -screen scrn 1280x2000x24 :9.0 &
 export DISPLAY=:9.0
 
 # 下载并解压程序
-wget -O fuck-xuexiqiangguo.zip https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip
+wget -O fuck-xuexiqiangguo.zip https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Love学习强国-linux.zip
 unzip -q -d ./fuck-xuexiqiangguo/ fuck-xuexiqiangguo.zip
 
 cd fuck-xuexiqiangguo
-chmod +x ./Fuck学习强国
+chmod +x ./Love学习强国
 
 # 运行程序
-./Fuck学习强国 --headless
+./Love学习强国 --headless
 
 # 等待片刻，使用学习强国APP扫描屏幕上的二维码登录
 ```
