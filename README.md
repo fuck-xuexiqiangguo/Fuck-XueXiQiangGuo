@@ -62,6 +62,10 @@ chmod +x ./Fuck学习强国
 # 等待片刻，使用学习强国APP扫描屏幕上的二维码登录
 ```
 
+## 命令行选项
+
+使用 `./Fuck学习强国 --help` 查看命令行选项帮助
+
 ## 更新方法
 
 使用最新的[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar)替换resources/app.asar
@@ -70,9 +74,9 @@ chmod +x ./Fuck学习强国
 
 [version.json](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json)文件中有app.asar的sha256校验值，可自行核对。
 
-## 已知问题
+## Changelog
 
-重复阅读同一文章或视频不能获得分数
+[CHANGELOG.md](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/CHANGELOG.md)
 
 ## License
 
