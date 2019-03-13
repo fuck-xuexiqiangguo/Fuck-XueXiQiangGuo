@@ -2,6 +2,17 @@
 
 更新日志
 
+## 0.4.2 - 2019-03-13
+
+### Added
+
+* 支持使用自定义 User Agent 启动程序，使用 `--ua=<user_agent>` 命令行选项：  
+`./Fuck学习强国 --ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"`
+
+### Changed
+
+* 在程序多开时自动使用多用户模式
+
 ## 0.4.1 - 2019-03-13
 
 ### Added
