@@ -2,6 +2,17 @@
 
 更新日志
 
+## 0.5.0 - 2019-03-28
+
+### Added
+
+* 支持使用用户名密码自动登录，使用 `--username=<phone_number>` 和 `--passwd=<password>` 命令行选项：
+`./Fuck学习强国 --username=13900000000 --passwd="xxxxxx"`
+
+### Fixed
+
+* 解决卡在音频节目上的问题
+
 ## 0.4.3 - 2019-03-13
 
 ### Fixed
