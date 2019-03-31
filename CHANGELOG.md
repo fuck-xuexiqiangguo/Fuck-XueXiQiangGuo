@@ -2,12 +2,27 @@
 
 更新日志
 
+## 0.6.0 - 2019-03-30
+
+### Added
+
+* 在窗口最上方（菜单栏中）和命令行界面中显示目前刷了多少分
+
+* 在窗口最上方（菜单栏中）显示当前版本号
+
+## 0.5.1 - 2019-03-29
+
+### Changed
+
+* 适配最新积分规则
+
 ## 0.5.0 - 2019-03-28
 
 ### Added
 
-* 支持使用用户名密码自动登录，使用 `--username=<phone_number>` 和 `--passwd=<password>` 命令行选项：
-`./Fuck学习强国 --username=13900000000 --passwd="xxxxxx"`
+* 支持使用用户名密码自动登录，使用 `--username=<phone_number>` 和 `--passwd=<password>` 命令行选项：  
+`./Fuck学习强国 --username=13900000000 --passwd="xxxxxx"`  
+（如果是外国手机号，请以 +1-xxxxxxxxxx 的格式输入）
 
 ### Fixed
 
