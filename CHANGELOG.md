@@ -2,6 +2,16 @@
 
 更新日志
 
+## 0.6.2 - 2019-04-04
+
+### Changed
+
+* 改变顶部菜单栏中每项积分的[显示格式](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/issues/240#issuecomment-478416227)
+
+### Fixed
+
+* 解决在最小化窗口后不能继续得分的问题
+
 ## 0.6.1 - 2019-04-01 （这是真的）
 
 ### Added
