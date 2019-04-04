@@ -27,7 +27,7 @@ ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
 * 请解压后点击 `Fuck学习强国.exe` 来启动程序。
 * 对于Linux用户，请在使用前为程序添加可执行权限: `chmod +x Fuck学习强国`
 * 如果你没有登录账号，请在打开的页面中扫描二维码登录。
-* 等待打开的窗口中的程序自动完成“学刁”，你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口。
+* 等待打开的窗口中的程序自动完成“学刁”，~~你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口~~（[已经解决此问题](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/CHANGELOG.md#062---2019-04-04)）。
 
 ## 直接在命令行界面运行
 
