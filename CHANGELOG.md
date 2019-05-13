@@ -2,6 +2,18 @@
 
 更新日志
 
+## 0.7.0 - 2019-05-11
+
+### Added
+
+* 支持配置http和socks代理，使用 `--proxy=<proxy_rules>` 命令行选项：  
+`./Fuck学习强国 --proxy="http://127.0.0.1:1080"`  
+（[代理规则的格式](https://electronjs.org/docs/api/session#sessetproxyconfig-callback)）
+
+### Fixed
+
+* 解决无法自动浏览的问题
+
 ## 0.6.4 - 2019-04-25
 
 > （这是一个好数字）
