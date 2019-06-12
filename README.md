@@ -3,6 +3,8 @@
 
 一款帮助成年人（或许未来包括小朋友）自动学刁的软件
 
+[v1 Alpha](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/tree/v1-alpha)
+
 ## 下载
 
 [Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip)
@@ -27,7 +29,7 @@ ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
 * 请解压后点击 `Fuck学习强国.exe` 来启动程序。
 * 对于Linux用户，请在使用前为程序添加可执行权限: `chmod +x Fuck学习强国`
 * 如果你没有登录账号，请在打开的页面中扫描二维码登录。
-* 等待打开的窗口中的程序自动完成“学刁”，~~你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口~~（[已经解决此问题](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/CHANGELOG.md#062---2019-04-04)）。
+* 等待打开的窗口中的程序自动完成“学刁”，~~你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口~~（[已经解决此问题](CHANGELOG.md#062---2019-04-04)）。
 
 ## 直接在命令行界面运行
 
@@ -72,11 +74,11 @@ chmod +x ./Fuck学习强国
 
 对于Mac用户，请替换Contents/Resources/app.asar
 
-[version.json](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json)文件中有app.asar的sha256校验值，可自行核对。
+[version.json](version.json)文件中有app.asar的sha256校验值，可自行核对。
 
 ## Changelog
 
-[CHANGELOG.md](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/CHANGELOG.md)
+[CHANGELOG.md](CHANGELOG.md)
 
 ## License
 
