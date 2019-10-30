@@ -3,8 +3,6 @@
 
 一款帮助成年人（或许未来包括小朋友）自动学刁的软件
 
-[v1 Alpha](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/tree/v1-alpha)
-
 ## 下载
 
 [Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip)
