@@ -22,6 +22,10 @@ ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
 
 [IPFS镜像1](https://cloudflare-ipfs.com/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像2](https://ipfs.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像3](https://siderus.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像4](https://ipfs.eternum.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像5](https://gateway.pinata.cloud/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw)
 
+### 在 Arch User Repository 上的 package
+Arch Linux 用户可通过 AUR 一键安装  
+软件包地址：(https://aur.archlinux.org/packages/fuck-xuexiqiangguo/)
+
 ## 使用方法
 
 * 请解压后点击 `Fuck学习强国.exe` 来启动程序。
